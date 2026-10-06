@@ -1,5 +1,5 @@
 <?php
- echo "Hello world! How are you today? Miguel";
- echo "Está demasiado calor";
+ echo "Hello world! How are you today? SILVIA";
+ echo "Está calor!";
 
 ?>
